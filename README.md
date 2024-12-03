@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quarkos&label=Profile%20views&color=0e75b6&style=flat" alt="quarkos" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=QuarkOS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- 🔭 I’m currently working on an **Roblox Account Generator**
+- 🔭 I’m currently working on an **Discord Bot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
