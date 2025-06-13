@@ -27,6 +27,22 @@
 
 ---
 
+### 🏆 My Pinned Projects
+<p align="center">
+  <!-- Change the `repo` parameter to your repository name -->
+  <a href="https://github.com/QuarkOS/synapse" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuarkOS&repo=synapse&theme=onedark&show_owner=true" />
+  </a>
+  <!-- To add more, uncomment the block below and change the repo name -->
+  <!--
+  <a href="https://github.com/QuarkOS/another-repo" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuarkOS&repo=another-repo&theme=onedark&show_owner=true" />
+  </a>
+  -->
+</p>
+
+---
+
 ### 🛠️ My Tech Stack
 
 Here are some of the languages, tools, and technologies I work with:
