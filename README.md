@@ -19,9 +19,9 @@
 
 <p>I'm a developer who enjoys diving into different technologies to bring ideas to life. From crafting intelligent backend systems to building user-friendly interfaces, I'm always eager to learn and create.</p>
 
-- 🔭 I’m currently building **[Synapse](https://github.com/QuarkOS/synapse)**, an AI-powered clipboard assistant, and a feature-rich **Discord Bot**.
+- 🔭 I’m currently building **[Synapse](https://github.com/QuarkOS/synapse)**, an AI-powered clipboard assistant.
 - 🌱 I’m currently exploring advanced concepts in **Machine Learning** and **Concurrent Programming in Java**.
-- 💬 Ask me about **Java, Python, C#, and project architecture**.
+- 💬 Ask me about **Java, C#, and project architecture**.
 - 📫 How to reach me: **schwaiger.emilio@gmail.com**
 - ⚡ Fun fact: I believe the best code is the code that feels like magic to the user.
 
