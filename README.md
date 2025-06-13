@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quarkos&show_icons=true&bg_color=363636&locale=en&layout=compact" alt="quarkos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quarkos&show_icons=true&bg_color=323232&locale=en" alt="quarkos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quarkos&" alt="quarkos" /></p>
