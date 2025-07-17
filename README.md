@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently building **[Synapse](https://github.com/QuarkOS/synapse)**, an AI-powered desktop assistant.
 - 🌱 I’m currently exploring advanced concepts in **Machine Learning** and **Concurrent Programming in Java**.
-- 💬 Ask me about **Java, C#, and project architecture**.
+- 💬 Ask me about **Java and why I dislike JS**.
 - 📫 How to reach me: **schwaiger.emilio@gmail.com**
 - ⚡ Fun fact: I believe the best code is the code that feels like magic to the user.
 
